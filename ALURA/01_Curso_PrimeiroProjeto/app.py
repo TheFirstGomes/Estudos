@@ -45,18 +45,20 @@ def escolher_opcao():
             break
 
 def menu_principal():
-    input('Digite uma tecla para voltar ao menu principal ')
+    input('\nDigite uma tecla para voltar ao menu: ')
     os.system('cls')
     main()
 
+def exibir_texto_titulo(texto):
+    os.system('cls')
+    print(f'{texto}\n')
+
 # Processos internos:         
 def finalizar_app(): 
-    os.system('cls')
-    print('Encerrando o sistema, obrigado por utilizar nossos sistemas!\n')
+    exibir_texto_titulo('Encerrando o sistema, obrigado por utilizar nossos sistemas!')
 
 def cadastrar_restaurante():
-    os.system('cls')
-    print('Cadastrar restaurantes\n')
+    exibir_texto_titulo('Cadastrar restaurantes')
 
     nome_do_restaurante = str(input('Digite o nome do restaurante que deseja cadastrar: '))
     restaurantes.append(nome_do_restaurante)
@@ -65,10 +67,15 @@ def cadastrar_restaurante():
     menu_principal()
 
 def listar_restaurante():
-    print('Listar restaurantes\n')
+    exibir_texto_titulo('Listar restaurantes')
+
+    for _, restaurante in enumerate(restaurantes): 
+        print(f'{_+1}. {restaurante}')
+    
+    menu_principal()
 
 def ativar_restaurante():
-    print('Ativar restaurantes\n')
+    exibir_texto_titulo('Ativar restaurantes')
 
 # Função principal
 def main():
