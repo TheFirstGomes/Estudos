@@ -21,7 +21,6 @@ class Relatorios:
         plt.show()
 
     @staticmethod
-    @staticmethod
     def relatorio_predicao(df): 
         # Classificação
         df['alerta'] = df.apply(lambda x: 'ALTO' if x['percentual_perda'] > 9 else 'NORMAL', axis=1)

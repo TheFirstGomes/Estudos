@@ -31,7 +31,7 @@ def exibir_menu():
     print("6  - Apagar toda a tabela do sistema!")
     print("7  - Sair do sistema")
     print("==============================================\n")
-    return input("Escolha uma opção (1-6): ")
+    return input("Escolha uma opção (1-7): ")
 
 
 def main():
