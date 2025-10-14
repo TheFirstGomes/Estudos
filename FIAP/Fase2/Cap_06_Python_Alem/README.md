@@ -120,7 +120,7 @@ python main.py
 
 👨‍💻 Autor
 Luan Gomes (RM566806)
-Curso: Sistemas de Informação — FIAP
+Curso: Inteligência Artificial — FIAP
 Fase 2 — Capítulo 6: Python e além
 
 
