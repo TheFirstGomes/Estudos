@@ -15,17 +15,22 @@ def pausar():
 
 def exibir_menu():
     """Exibe o menu principal do sistema."""
-    print("\n==============================================")
-    print("SISTEMA DE MONITORAMENTO DE COLHEITA DE CANA-DE-AÇÚCAR")
-    print("==============================================")
-    print("1️  - Gerar dados simulados e exportar JSON")
+    print("="*110)
+    print(
+"""█▀ █ █▀ ▀█▀ █▀▀ █▀▄▀█ ▄▀█   █▀▄ █▀▀   █▀▄▀█ █▀█ █▄░█ █ ▀█▀ █▀█ █▀█ ▄▀█ █▀▄▀█ █▀▀ █▄░█ ▀█▀ █▀█   █▀▄ █▀▀
+▄█ █ ▄█ ░█░ ██▄ █░▀░█ █▀█   █▄▀ ██▄   █░▀░█ █▄█ █░▀█ █ ░█░ █▄█ █▀▄ █▀█ █░▀░█ ██▄ █░▀█ ░█░ █▄█   █▄▀ ██▄
+
+█▀▀ █▀█ █░░ █░█ █▀▀ █ ▀█▀ ▄▀█   █▀▄ █▀▀   █▀▀ ▄▀█ █▄░█ ▄▀█ ▄▄ █▀▄ █▀▀ ▄▄ ▄▀█ █▀▀ █░█ █▀▀ ▄▀█ █▀█
+█▄▄ █▄█ █▄▄ █▀█ ██▄ █ ░█░ █▀█   █▄▀ ██▄   █▄▄ █▀█ █░▀█ █▀█ ░░ █▄▀ ██▄ ░░ █▀█ █▄▄ █▄█ █▄▄ █▀█ █▀▄""")
+    print("="*110)
+    print("\n1️  - Gerar dados simulados e exportar JSON")
     print("2️  - Inserir dados simulados no banco Oracle")
     print("3️  - Inserir dados MANUALMENTE no banco Oracle")
     print("4️  - Consultar e gerar relatório estatístico")
     print("5️  - Gerar relatório preditivo (alertas de perda)")
     print("6  - Apagar toda a tabela do sistema!")
     print("7  - Sair do sistema")
-    print("==============================================")
+    print("==============================================\n")
     return input("Escolha uma opção (1-6): ")
 
 
