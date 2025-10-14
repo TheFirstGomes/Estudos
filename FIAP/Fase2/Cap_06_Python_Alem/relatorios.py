@@ -28,12 +28,12 @@ class Relatorios:
 
         print("\n================= RELATÓRIO PREDITIVO =================\n")
 
-        # Mostra top 10 e bottom 10
+        # Mostra top 10 e bottom 10 com IDs
         print(">>> Top 10 maiores perdas (ALTO):\n")
-        print(df[df['alerta'] == 'ALTO'].head(10).to_string(index=False))
+        print(df[df['alerta'] == 'ALTO'][['id', 'regiao', 'tipo_colheita', 'percentual_perda', 'alerta']].head(10).to_string(index=False))
         
         print("\n>>> Top 10 menores perdas (NORMAL):\n")
-        print(df[df['alerta'] == 'NORMAL'].head(10).to_string(index=False))
+        print(df[df['alerta'] == 'NORMAL'][['id', 'regiao', 'tipo_colheita', 'percentual_perda', 'alerta']].head(10).to_string(index=False))
 
         # Resumo percentual por região
         resumo_regiao = df.groupby('regiao')['alerta'].value_counts(normalize=True).unstack(fill_value=0) * 100
@@ -55,7 +55,7 @@ class Relatorios:
         print(f"Alertas críticos (ALTO): {criticos} ({(criticos/total)*100:.2f}%)")
         print("=========================================================\n")
 
-        # Salva CSV completo automaticamente
+        # Salva CSV completo com ID
         os.makedirs("relatorios", exist_ok=True)
         path = f"relatorios/relatorio_predicao_{datetime.now().strftime('%Y-%m-%d_%H-%M-%S')}.csv"
         df.to_csv(path, index=False, encoding='utf-8-sig')

@@ -40,7 +40,6 @@ def main():
 
     # Instancia os objetos principais
     db = OracleDB()
-    db.conectar()
     utils = Utils()
     relatorios = Relatorios()
 
@@ -103,14 +102,14 @@ def main():
             # 5️ Gerar relatório preditivo
             elif opcao == '5':
                 print("Gerando relatório preditivo...")
-                query = "SELECT REGIAO, TIPO_COLHEITA, PERCENTUAL_PERDA FROM PERDAS_CANA"
+                query = "SELECT ID, REGIAO, TIPO_COLHEITA, PERCENTUAL_PERDA FROM PERDAS_CANA"
                 registros = db.consultar(query)
 
                 if not registros:
                     print("Nenhum dado encontrado para predição.")
                     continue
 
-                df = pd.DataFrame(registros, columns=['REGIAO', 'TIPO_COLHEITA', 'PERCENTUAL_PERDA'])
+                df = pd.DataFrame(registros, columns=['ID', 'REGIAO', 'TIPO_COLHEITA', 'PERCENTUAL_PERDA'])
                 df.columns = [c.lower() for c in df.columns]
                 resultado = relatorios.relatorio_predicao(df)
                 print("\n===== RELATÓRIO PREDITIVO =====\n")

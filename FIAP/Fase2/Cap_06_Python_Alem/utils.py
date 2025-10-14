@@ -10,7 +10,7 @@ class Utils:
         tipo_colheita = ['Manual', 'Mecanizada']
         dados = []
 
-        for _ in range(100):
+        for _ in range(qtd):
             data = datetime(2023, 1, 1) + timedelta(days=random.randint(0, 365))
             regiao = random.choice(regioes)
             tipo = random.choice(tipo_colheita)
