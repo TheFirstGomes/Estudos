@@ -6,6 +6,7 @@ import pandas as pd
 import time
 import os
 
+
 def limpar_console():
     os.system('cls' if os.name == 'nt' else 'clear')
 
@@ -38,7 +39,8 @@ def main():
     print("Inicializando o sistema...\n")
 
     # Instancia os objetos principais
-    db = OracleDB(user='rm566806', password='Fiap#2025', dsn='oracle.fiap.com.br:1521/ORCL')
+    db = OracleDB()
+    db.conectar()
     utils = Utils()
     relatorios = Relatorios()
 

@@ -1,10 +1,12 @@
 import oracledb
+import os 
+from dotenv import load_dotenv
 
 class OracleDB: 
     def __init__(self, user, password, dsn):
-        self.user = user
-        self.password = password 
-        self.dsn = dsn
+        self.user = os.getenv('ORACLE_USER')
+        self.password = os.getenv('ORACLE_PASSWORD') 
+        self.dsn = os.getenv('ORACLE_DSN')
         self.conn = None
         self.cursor = None
 
