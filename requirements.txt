@@ -3,3 +3,16 @@ openpyxl
 matplotlib
 lxml
 sqlalchemy
+
+# Projeto de IA Generativa
+langchain 
+langchain-community
+langchain-ollama
+langchain-text-splitters
+chromadb
+pydantic
+bs4
+html2text 
+tiktoken
+python-dotenv
+langchain-chroma
