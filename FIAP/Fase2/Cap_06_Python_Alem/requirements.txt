@@ -1,0 +1,6 @@
+pandas
+openpyxl
+cx_oracle
+oracledb
+matplotlib
+dotenv
