@@ -9,6 +9,7 @@ nbformat>=4.2.0
 seaborn
 pyarrow
 fastparquet
+google-auth
 
 # Projeto de IA Generativa
 # langchain 
