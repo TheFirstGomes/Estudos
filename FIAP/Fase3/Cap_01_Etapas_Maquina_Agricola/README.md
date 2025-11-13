@@ -9,7 +9,6 @@
 # Nome do projeto
  -> Projetos Etapas de uma Máquina Agrícola e opcionais sendo: Dashboard em Python e Machine Learning no Agronegócio
 
-
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
@@ -47,35 +46,50 @@ Existe uma tabela que já contempla anteriormente o projeto anterior como pode s
 ![alt text](imagens/image-6.png)
 
 ## IR ALÉM - DASHBOARD EM PYTHON 
+Como extensão opcional do projeto, foi desenvolvida uma dashboard interativa em Python utilizando matplotlib/seaborn para visualização gráfica. O objetivo dessa dashboard é oferecer uma visão rápida e intuitiva sobre as condições do solo e da irrigação, apoiando decisões operacionais no campo.
 
+O dashboard trabalha sobre a mesma base de dados sintética utilizada no módulo de Machine Learning, contendo informações de umidade, N, P, K, pH, temperatura, chuva e estado da irrigação. A partir desses dados, são gerados gráficos e indicadores que permitem:
+- visualizar a distribuição da umidade do solo e sua variação ao longo do tempo;
+- inspecionar a distribuição de nutrientes (P e K), ajudando a identificar possíveis desbalanceamentos;
+- analisar a relação entre pH do solo e o estado da irrigação por meio de boxplots;
+
+##  IR ALÉM - Machine Learning no Agronegócio
+Nesta etapa foi desenvolvida uma solução completa de Machine Learning aplicada ao agronegócio, utilizando como base o arquivo produtos_agricolas.csv, composto pelas variáveis: N, P, K, temperatura, umidade, pH, chuva, além do rótulo binário label, indicando se aquela combinação de condições pode ser considerada produtiva (1) ou não (0).
+O objetivo foi construir um pipeline analítico capaz de:
+- realizar uma análise exploratória detalhada;
+- treinar modelos preditivos;
+- identificar padrões de produtividade para culturas agrícolas;
 
 ## 📁 Estrutura de pastas
-
-Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
-
-- <b>.github</b>: Nesta pasta ficarão os arquivos de configuração específicos do GitHub que ajudam a gerenciar e automatizar processos no repositório.
-
-- <b>assets</b>: aqui estão os arquivos relacionados a elementos não-estruturados deste repositório, como imagens.
-
-- <b>config</b>: Posicione aqui arquivos de configuração que são usados para definir parâmetros e ajustes do projeto.
-
-- <b>document</b>: aqui estão todos os documentos do projeto que as atividades poderão pedir. Na subpasta "other", adicione documentos complementares e menos importantes.
-
-- <b>scripts</b>: Posicione aqui scripts auxiliares para tarefas específicas do seu projeto. Exemplo: deploy, migrações de banco de dados, backups.
-
-- <b>src</b>: Todo o código fonte criado para o desenvolvimento do projeto ao longo das 7 fases.
-
-- <b>README.md</b>: arquivo que serve como guia e explicação geral sobre o projeto (o mesmo que você está lendo agora).
+Fase3/
+└── Cap_01_Etapas_Maquina_Agricola/
+    ├── README.md
+    ├── raw/
+    │   ├── dados_genericos_reg.csv
+    │   └── dados_irrigacao.csv
+    ├── imagens/
+    │   ├── image-1.png
+    │   ├── image-2.png
+    │   ├── image-3.png
+    │   ├── image-4.png
+    │   ├── image-5.png
+    │   ├── image-6.png
+    │   └── image.png
+    └── opcionais/
+        ├── data/
+        │   └── ano=2024/
+        ├── eda_produtividade/
+        ├── comparativo_modelos_reg.csv
+        ├── perfis_ideais_reg.csv
+        ├── luan_gomes_rm566806_dashboard_irrigacao.ipynb
+        └── luan_gomes_rm566806_machine_learning.ipynb
 
 ## 🔧 Como executar o código
-
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
-
+Fazer a instalação das bibliotecas na primeira linha do jupyter notebook e rodar o modelo ajustando N para trabalhar em cima das amostras. 
 
 ## 🗃 Histórico de lançamentos
 
 * 0.1.0 - 12/11/2025
-
 
 ## 📋 Licença
 
