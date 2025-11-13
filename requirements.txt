@@ -10,7 +10,13 @@ seaborn
 pyarrow
 fastparquet
 google-auth
+dotenv
+polars 
 
+# Projeto work 
+google-cloud-bigquery
+google-cloud-storage
+python-dateutil
 # Projeto de IA Generativa
 # langchain 
 # langchain-community
