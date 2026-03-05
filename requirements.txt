@@ -12,6 +12,7 @@ fastparquet
 google-auth
 dotenv
 polars 
+httpx
 
 # Projeto work 
 google-cloud-bigquery
