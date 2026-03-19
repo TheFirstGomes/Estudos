@@ -5,7 +5,9 @@
       "Bash(du -sh c:/Users/Usuario/Documents/Estudos/* --exclude=.venv --exclude=.git --exclude=.idea)",
       "Bash(python3 -c \":*)",
       "Bash(python -c \":*)",
-      "Bash(python -:*)"
+      "Bash(python -:*)",
+      "Bash(pip install:*)",
+      "Bash(jupyter nbconvert:*)"
     ]
   }
 }
