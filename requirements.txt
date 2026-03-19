@@ -18,15 +18,12 @@ httpx
 google-cloud-bigquery
 google-cloud-storage
 python-dateutil
-# Projeto de IA Generativa
-# langchain 
-# langchain-community
-# langchain-ollama
-# langchain-text-splitters
-# chromadb
-# pydantic
-# bs4
-# html2text 
-# tiktoken
-# python-dotenv
-# langchain-chroma
+
+openai==1.86.0
+langchain==0.3.25
+langchain-openai==0.3.22
+langgraph==0.4.8
+python-dotenv==1.1.0
+faiss-cpu==1.13.0
+langchain-community==0.3.25
+pypdf==5.6.0
