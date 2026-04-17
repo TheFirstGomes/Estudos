@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python codes/setup_database.py)",
+      "Bash(python codes/train_model.py)",
+      "Bash(python codes/simulacao_hardware.py)",
+      "Bash(python codes/security_module.py)",
+      "Bash(python codes/analise_estatistica.py)",
+      "Bash(python codes/chatbot_ia.py)",
+      "Bash(python codes/visao_computacional.py)",
+      "Bash(python codes/recomendacao.py)",
+      "Bash(streamlit run *)",
+      "Bash(start cmd *)",
+      "Bash(start \"\" python -m streamlit run codes/app_sprint4.py)",
+      "Bash(python -m streamlit run codes/app_sprint4.py --server.headless false)",
+      "Bash(C:/Users/Usuario/AppData/Local/Programs/Python/Python312/python.exe -m streamlit run \"C:/Users/Usuario/Documents/Estudos/Challenge_FIAP/codes/app_sprint4.py\")",
+      "Bash(curl -s http://localhost:8501)",
+      "Bash(echo \"Status: $?\")",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\" http://localhost:8501)",
+      "Bash(C:/Users/Usuario/AppData/Local/Programs/Python/Python312/python.exe -m streamlit run codes/app_sprint4.py --server.port 8501)",
+      "Bash(C:/Users/Usuario/AppData/Local/Programs/Python/Python312/python.exe -c ' *)"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\Usuario\\Documents\\Estudos\\Challenge_FIAP\\modelos_ml"
+    ]
+  }
+}
