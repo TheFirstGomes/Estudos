@@ -8,7 +8,7 @@
 | Recurso | Link |
 |---|---|
 | **Video Demonstrativo (Entrega 1)** | [Assistir no YouTube](https://youtu.be/ihUIHOewe8k) |
-| **Video Demonstrativo (Entrega 2)** | [Assistir no YouTube](https://youtu.be/V0xefvv9eL0) |
+| **Video Demonstrativo (Entrega 2)** | [Assistir no YouTube](https://youtu.be/_keO6RERWCo) |
 
 ---
 
