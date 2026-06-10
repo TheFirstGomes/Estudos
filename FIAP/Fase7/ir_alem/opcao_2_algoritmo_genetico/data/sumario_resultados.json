@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "fitness_medio": 180.7024,
+    "fitness_max": 182.269,
+    "tempo_medio_s": 0.2386
+  },
+  "meta_ga": {
+    "fitness_medio": 181.4096,
+    "fitness_max": 182.269,
+    "tempo_medio_s": 0.2514,
+    "melhoria_pct": 0.39
+  },
+  "melhor_config": {
+    "pop_size": 100,
+    "mutation_rate": 0.01,
+    "crossover_rate": 0.6,
+    "elitism": 1,
+    "selection": "tournament",
+    "crossover": "uniform",
+    "mutation": "bitflip",
+    "tournament_size": 5
+  }
+}
