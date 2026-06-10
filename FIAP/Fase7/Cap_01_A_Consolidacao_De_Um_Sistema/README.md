@@ -8,8 +8,9 @@
 
 | Recurso | Link |
 |---|---|
-| **Vídeo Demonstrativo** | *(https://youtu.be/4zeQbTov5eQ)* |
-| **Repositório GitHub** | *(https://github.com/TheFirstGomes/Estudos/tree/main/FIAP/Fase7/Cap_01_A_Consolidacao_De_Um_Sistema)* |
+| **Vídeo Atividade 1** | *(https://youtu.be/4zeQbTov5eQ)* |
+| **Vídeo Ir Além 1 e 2 Juntos** | *(https://youtu.be/NBThqXHFaRI)* |
+| **Repositório GitHub** | *(https://github.com/TheFirstGomes/Estudos/tree/main/FIAP/Fase7)* |
 
 ---
 
@@ -318,6 +319,42 @@ streamlit run dashboard/app.py
 ```
 
 Sem as variáveis configuradas, o sistema opera em **modo simulado** — exibe os alertas no dashboard sem enviar e-mail.
+
+---
+
+## Ir Além
+
+Além das entregas obrigatórias da Fase 7, foram desenvolvidas duas implementações extras explorando serviços e técnicas além do currículo.
+
+### 🎥 Vídeo Demonstrativo — Ir Além
+
+[![YouTube](https://img.shields.io/badge/YouTube-Assistir%20agora-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtu.be/NBThqXHFaRI)
+
+---
+
+### Opção 1 · AWS Rekognition — Visão Computacional na Nuvem
+
+O AWS Rekognition é o serviço de visão computacional da Amazon que detecta objetos, cenas e rótulos em imagens usando modelos pré-treinados de deep learning — sem nenhuma linha de código de treino necessária.
+
+Na FarmTech, ele complementa a análise OpenCV da Fase 6: enquanto o OpenCV analisa cor HSV localmente em tempo real, o Rekognition oferece **alta precisão via API** para auditorias periódicas da lavoura. A mesma imagem que chega pelo dashboard pode ser enviada ao S3 e analisada pelo Rekognition, com o resultado alimentando os alertas SNS já implementados na Fase 5.
+
+Nas demonstrações realizadas, o serviço identificou corretamente culturas agrícolas com **98.6% de confiança**, retornando labels como `Corn`, `Plant`, `Grain` sem nenhuma configuração de modelo.
+
+> Curioso sobre como levar isso para produção com Custom Labels treinados nos dados da própria fazenda?
+> Veja a documentação completa: [`ir_alem/opcao_1_rekognition/`](../ir_alem/opcao_1_rekognition/README_Rekognition.md)
+
+---
+
+### Opção 2 · Algoritmos Genéticos com Meta-Otimização
+
+Um Algoritmo Genético foi implementado para resolver o problema de **alocação eficiente de insumos agrícolas** — dado um orçamento, quais insumos aplicar para maximizar o ganho de produtividade?
+
+O diferencial vai além do exercício proposto: foi implementado um **Meta-GA**, um segundo algoritmo genético cuja população são as próprias *configurações de hiperparâmetros* do GA interno. Ao invés de ajustar manualmente `pop_size`, `mutation_rate` e estratégias de seleção, o Meta-GA encontra automaticamente a combinação que produz os melhores resultados.
+
+A ideia conecta diretamente ao campo de **Neural Architecture Search (NAS)**, onde algoritmos evolutivos buscam automaticamente a topologia ideal de redes neurais — o mesmo princípio, aplicado a escalas diferentes.
+
+> Curioso sobre como GAs podem otimizar outros GAs — e como isso se relaciona com o que os melhores laboratórios de IA do mundo fazem para projetar redes neurais?
+> Veja o notebook completo: [`ir_alem/opcao_2_algoritmo_genetico/`](../ir_alem/opcao_2_algoritmo_genetico/Luan_Gomes_RM566806_ir_alem_algoritmo_genetico.ipynb)
 
 ---
 
