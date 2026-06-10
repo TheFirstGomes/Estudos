@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+data/farmtech_fase7.db
+data/raw/
+data/models/
+data/test_sets/
+data/images/
+*.joblib
