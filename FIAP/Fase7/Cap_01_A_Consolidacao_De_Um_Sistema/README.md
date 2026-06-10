@@ -8,8 +8,8 @@
 
 | Recurso | Link |
 |---|---|
-| **Vídeo Demonstrativo** | *(link do YouTube — a ser adicionado)* |
-| **Repositório GitHub** | *(link do repositório — a ser adicionado)* |
+| **Vídeo Demonstrativo** | *(https://youtu.be/4zeQbTov5eQ)* |
+| **Repositório GitHub** | *(https://github.com/TheFirstGomes/Estudos/tree/main/FIAP/Fase7/Cap_01_A_Consolidacao_De_Um_Sistema)* |
 
 ---
 
