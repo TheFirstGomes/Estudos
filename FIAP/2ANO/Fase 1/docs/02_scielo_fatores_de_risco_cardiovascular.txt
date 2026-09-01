@@ -1,0 +1,108 @@
+=====================================================================
+FONTE: SciELO Brasil - Arquivos Brasileiros de Endocrinologia & Metabologia
+CITACAO: Santos Filho RD, Martinez TLR. Fatores de risco para doenca
+cardiovascular: velhos e novos fatores de risco, velhos problemas!
+Arq Bras Endocrinol Metab. 2002.
+URL: https://www.scielo.br/j/abem/a/SQNbwgnV9t5zyNdnCmbYmMb/?lang=pt
+LICENCA: SciELO / Creative Commons Attribution (conteudo de acesso aberto)
+EXTRACAO: texto extraido programaticamente do HTML publico do artigo
+(tags <h1>, <h2>, <h3>, <p>), preservando o conteudo textual original.
+=====================================================================
+
+Fatores de risco para doença cardiovascular: velhos e novos fatores de risco, velhos problemas !
+
+editorial
+
+Fatores de Risco para Doença Cardiovascular: Velhos e Novos Fatores de Risco, Velhos Problemas !
+
+Raul D. Santos Filho
+
+Tânia L. da Rocha Martinez
+
+Unidade Clínica de Dislipidemias, InCor, HC-FMUSP e Departamento de Aterosclerose, Sociedade Brasileira de Cardiologia
+
+A S DOENÇAS CARDIOVASCULARES são a principal causa de morte em nosso país, cerca de 30% dos óbitos para todas as faixas etárias (1). Segundo dados de atestado de óbito dentre as doenças cardiovasculares em 1998 no Brasil, o acidente vascular cerebral (AVC) foi a primeira causa de morte seguido da doença isquêmica do coração (DIC). Na maior parte dos casos tanto o AVC como a DIC têm etiologia conhecida sendo causados por fatores de risco bem estabelecidos. Dados dos estudos de Framingham, MRFIT e PROCAM demonstraram o indiscutível papel das dislipidemias, i.e., LDL-colesterol elevado e HDL-colesterol diminuídos, hipertensão arterial sistêmica (HAS), fumo, idade e diabetes mellitus (DM) como fatores de risco independentes para a aterosclerose e conseqüente DIC (2). Na etiologia do AVC, a HAS - principalmente a hipertensão sistólica -, é o mais importante fator de risco. Além desses, uma série de outros fatores de risco foram descritos e potencializam os fatores independentes; esses são denominados fatores predisponentes. Dentre os fatores predisponentes temos: história familiar precoce de DIC, obesidade - principalmente a do tipo central -, sedentarismo, etnia e fatores psicossociais. Um terceiro grupo de fatores de risco, cujo papel na aterogênese é provável, contudo ainda não totalmente demonstrado, é denominado grupo de fatores condicionais. Nesse grupo encontram-se triglicérides, lipoproteína(a), homocisteína, LDL pequena e densa, fibrinogênio e fatores inflamatórios. Esses últimos poderiam ser apenas marcadores e não fatores de risco.
+
+Uma das grandes discussões dos epidemiologistas é se a menopausa seria um fator de risco a mais para a DIC, já que a idade acima de 55 anos nas mulheres (idade na qual as mulheres em média já apresentaram a menopausa) e acima de 45 anos nos homens são fatores de risco independentes (2). Entenda-se por menopausa a deprivação de estrogênios protetores contra a aterosclerose. Sabe-se que a aterosclerose se inicia na infância e geralmente vai se manifestar após os 55 anos nos homens e 65 anos nas mulheres. A idade avançada é uma marcadora da quantidade de placas ateroscleróticas estabelecidas (3). Quanto maior a quantidade de placas maior o risco de DIC. Estudos prospectivos com a terapia de reposição hormonal em mulheres sem manifestação de aterosclerose talvez esclareçam o papel da deprivação estrogênica na aterogênese.
+
+O controle de alguns dos fatores de risco independentes reduziu de forma importante a morbi-mortalidade secundária à aterosclerose. O controle da HAS diminuiu o AVC em cerca de 42% e a DIC em 15% (4). A redução do LDL-colesterol em cerca de 30% diminuiu o risco de infarto do miocárdio em 33%, o AVC em 29% e a mortalidade cardiovascular em 28% (5). A abstenção do fumo pode diminuir o risco de mortalidade em até 70% em indivíduos já portadores de DIC (6). Entretanto, apesar da disponibilidade de meios para se identificar e controlar os fatores de risco independentes, dados americanos mostram que nos últimos 20 anos houve redução na queda da morbi-mortalidade por doenças cardiovasculares nos EUA (7). Uma das explicações para esse achado está na diferença entre a teoria e a prática, ou seja, os fatores de risco apesar de conhecidos e da disponibilidade de meios para controlá-los, não são tratados de forma adequada. Nos EUA, dados do NHANES III mostram que apenas 25% dos portadores de HAS estão com essa doença controlada (8). Em nosso meio demonstramos que os cardiologistas, apesar de valorizarem o papel do colesterol na aterogênese, não seguem de forma adequada as recomendações para o controle das dislipidemias de pacientes de alto risco (9). Uma outra explicação razoável seria que fatores de risco como a obesidade central e sua associação com a síndrome metabólica e o DM teriam tido aumento de prevalência, fato que aumenta o número de pacientes expostos ao risco de doença cardiovascular (10).
+
+De fato, nas últimas décadas, estudos demonstraram aumento na prevalência de obesidade nos EUA (10), Europa (11) e no Brasil (12), achado que é extremamente preocupante. Por fim, a falta de controle de fatores de risco condicionais, como os triglicérides, lipemia pós-prandial, processo inflamatório ou a homocisteína entre outros poderia ter também parcela de culpa no quadro ascendente de mortalidade.
+
+Neste número dos "ABE&M", três estudos avaliaram a associação da obesidade central, síndrome metabólica e do DM com fatores de risco independentes com a HAS e a dislipidemia e fatores condicionais para a aterosclerose, como a homocisteinemia e a hipertrigliceridemia pós-prandial. O estudo de Lima e cols. (13) mostra que a presença de lipemia pós-prandial aumentada se associou ao acúmulo da gordura na região abdominal e a níveis mais baixos de HDL-colesterol mesmo quando a trigliceridemia de jejum estava "normal". Cruz Filho e cols. (14) encontram associação da glicemia capilar em jejum utilizada para triagem da intolerância à glicose com a obesidade abdominal. E, por fim, o achado importante do estudo de Tavares e cols. (15) foi a alta prevalência de obesidade central em indígenas aculturados, o que mostra sua associação do modo de vida da civilização ocidental.
+
+Para uma prevenção adequada da doença cardiovascular é necessária uma boa estratificação do risco e real controle dos fatores predisponentes. Várias diretrizes foram publicadas na tentativa de se prevenir a doença cardiovascular e devem ser seguidas. É mandatório que se controle a pressão arterial e o colesterol agressivamente. O tabagismo também deve ser combatido de forma agressiva. A prevenção e o tratamento do excesso de peso, da síndrome metabólica e do DM, por intermédio de alimentação adequada e exercício físico, também têm papel extremamente importante. Sem dúvida, a prevenção da aterosclerose passa por um processo de educação de médicos e de pacientes. Vamos mais além, atividade física, alimentação saudável, absenteísmo do fumo e combate ao excesso de peso devem ser ensinados na escola como estratégia preventiva de saúde pública. Quanto à redução dos níveis de homocisteína e da lipemia pós-prandial, esses podem ser atingidos com suplementação do folato (16) e com o uso de fibratos (17) ou estatinas (18). Basta demonstrar que esses procedimentos previnem a doença cardiovascular.
+
+REFERÊNCIAS
+
+1. www.datasus.com.br
+
+2. Grundy SM, Pasternak R, Greenland P, Smith Jr S, Fuster V. Assessment of cardiovascular risk by use of multiple-risk-factor assessment equations: A statement for healthcare professionals from the American Heart Association and the American College of Cardiology. Circulation 1999; 100:1481-92.
+
+3. Grundy SM. Age as a risk factor: you are old as your arteries. Am J Cardiol 1999 ;83:1455-7.
+
+4. Collins R, Peto R, MacMahon S, et al. Blood pressure, stroke, and coronary heart disease. Part 2: Short-term reductions in blood pressure: overview of randomized drug trials in their epidemiological context. Lancet 1990 ;335:827-38.
+
+5. Hebert PR, Gaziano JM, Chan KS, Hennekens CH. Cholesterol lowering with statin drugs, risk of stroke, and total mortality. An overview of randomized trials. JAMA 1997 ;278:313-21.
+
+6. Hermanson B, Omenn GS, Kronmal RA, Gersh BJ. Beneficial six-year outcome of smoking cessation in older men and women with coronary artery disease. Results from the CASS registry. N Engl J Med 1988 ; 319:1365-9.
+
+7. American Heart Association 1999. Heart and Stroke Statistical Update. 1998 .
+
+8. The Sixth Report of the Joint National Committee on Prevention, Detection, Evaluation, and Treatment of High Blood Pressure. Arch Intern Med 1997 ;157:2413-46.
+
+9. Santos RD, Spósito AC, dos Santos JE, et al. Programa de avaliação nacional do conhecimento sobre prevenção da aterosclerose (PANDORA): Como tem sido feito o tratamento das dislipidemias pelos médicos brasileiros. Arq Bras Cardiol 2000 ;75:289-95.
+
+10. National Heart, Lung, and Blood Institute/National Institutes of Diabetes and Digestive and Kidney Diseases. Clinical guidelines on the identification, evaluation and treatment of overweight and obesity in adults. The evidence report. Bethesda: National Institutes of Health 1998 :1-228.
+
+11. EUROASPIRE I and II Group. Clinical reality of coronary prevention guidelines: a comparison of EUROASPIRE I and II in nine countries. Lancet 2001 ;357:995-1001.
+
+12. Monteiro CA, D'A Benicio MH, Conde WL, Popkin BM. Shifting obesity trends in Brazil. Eur J Clin Nutr 2000 ;54:342-6.
+
+13. Lima JG, Nóbrega LHC, Nóbrega MLC, Bandeira F, Souza AGP. Dislipidemia pós-prandial como achado precoce em indivíduos com baixo risco cardiovascular. Arq Bras Endocrinol Metab 2002 ;46/3:249-254.
+
+14. Cruz-Filho RA, Corrêa LL, Ehrhardt AO, Cardoso GP, Barbosa GM. O papel da glicemia capilar em jejum no diagnóstico precoce do diabetes mellitus: Correlação com fatores de risco cardiovascular. Arq Bras Endocrinol Metab 2002 ;46/3:255-259.
+
+15. Tavares EF, Vieira-Filho JPB, Andriolo A, Franco LJ. Relação da homocisteinemia com a sensibilidade à insulina e com fatores de risco cardiovascular em um grupo indígena brasileiro. Arq Bras Endocrinol Metab 2002 ;46/3:260-268.
+
+16. Pancharuniti N, Lewis CA, Sauberlich HE. Plasma homocysteine, folate and vitamin B12 concentration and risk for early-onset coronary artery disease. Am J Clin Nutr 1994 ;59:940-8.
+
+17. Santos RD, Sposito AC, Ventura LI, César LAM, Ramires JAF, Maranhão RC. Pravastatin increases the plasma removal of chylomicron-like emulsions in men with coronary artery disease. Am J Cardiol 2000 ;85:1163-6.
+
+18. Santos RD, Ventura LI, Spósito AC, Schreiber R, Ramires JAF, Maranhão RC. The effects of gemfibrozil upon the metabolism of chylomicron-like emulsions in patients with endogenous hypertriglyceridemia. Cardiovasc Res 2001 ;49:456-65.
+
+Datas de Publicação
+
+Ferramentas do artigo
+
+Versão para download de PDF
+
+PDF
+
+Artigos relacionados
+
+Lista de links para artigos relacionados. Os links abrem em nova aba.
+
+Versões e tradução automática
+
+Escolha a versão original do texto ou utilize um serviço de tradução automática.
+
+Versão original do texto
+
+Tradução automática
+
+Como citar
+
+Escolha um formato para exportar ou selecione um estilo de citação. O conteúdo abaixo pode ser atualizado após a seleção.
+
+vertical_align_top Ir para o topo Brasil
+
+Rua Dr. Diogo de Faria, 1087 – 9º andar – Vila Clementino 04037-003 São Paulo/SP - Brasil E-mail: scielo@scielo.org
+
+Leia a Declaração de Acesso Aberto
+
+Métricas
+
+Mensagem
+
+Mensagem
