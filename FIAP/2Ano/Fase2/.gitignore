@@ -1,0 +1,6 @@
+__pycache__/
+.ipynb_checkpoints/
+node_modules/
+dist/
+.venv/
+ir-alem-2-ecg-mlp/data/*.csv

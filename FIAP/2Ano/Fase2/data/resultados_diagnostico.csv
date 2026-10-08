@@ -1,0 +1,11 @@
+﻿frase_id,sintomas_identificados,diagnostico_sugerido,pontuacao,alternativas
+1,irradia para o braço esquerdo; piora quando faço esforço; dor no peito; suor frio,Infarto Agudo do Miocárdio,1.75,Angina (1.25); Síncope (0.50)
+2,tornozelos ficam inchados; cansaço constante; cansaço,Insuficiência Cardíaca,2.00,Anemia (0.50); Valvopatia Cardíaca (0.50)
+3,coração disparado; levanto rápido; palpitações; tonto,Arritmia Cardíaca,2.00,Hipotensão Postural (1.50); Hipertireoidismo (0.50)
+4,fraqueza no lado direito; dificuldade para falar; boca torta; fraqueza,Acidente Vascular Cerebral (AVC),3.00,Anemia (0.50); Síncope (0.50)
+5,dor de cabeça forte; zumbido no ouvido; zumbido,Hipertensão Arterial,3.00,
+6,falta de ar ao subir escadas; dormir com dois travesseiros; falta de ar,Insuficiência Cardíaca,2.25,Angina (0.25); Embolia Pulmonar (0.25)
+7,falta de ar de repente; dor ao respirar fundo; dor ao respirar; falta de ar,Embolia Pulmonar,2.75,Pericardite (0.50); Angina (0.25)
+8,melhora quando me sento inclinado; piora quando me deito; dor no peito; febre,Pericardite,2.75,Endocardite (0.75); Angina (0.25)
+9,visão escureceu; desmaiei; tontura,Síncope,1.70,Hipotensão Postural (0.70); Arritmia Cardíaca (0.20)
+10,passa em poucos minutos; aperto no tórax; caminho rápido,Angina,2.50,Infarto Agudo do Miocárdio (0.50)
