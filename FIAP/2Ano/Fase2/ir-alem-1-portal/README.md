@@ -14,7 +14,9 @@ Grupo: *Cardios da Vida - CardioIA* · Tutora: Sabrina Otoni
 
 ## 🎥 Vídeo de demonstração
 
-**Link (YouTube, não listado):** _COLE_AQUI_O_LINK_DO_VIDEO_
+**Link (YouTube, não listado):** https://youtu.be/8-ic3pFUlEE
+
+**Repositório público (GitHub):** https://github.com/TheFirstGomes/Estudos/tree/main/FIAP/2Ano/Fase2/ir-alem-1-portal
 
 ## 🔧 Instalação e execução
 

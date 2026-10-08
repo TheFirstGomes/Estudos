@@ -20,7 +20,9 @@
 
 ## 🎥 Vídeo de demonstração
 
-**Link (YouTube, não listado):** [Youtube](https://youtu.be/8-ic3pFUlEE)
+**Link (YouTube, não listado):** https://youtu.be/8-ic3pFUlEE
+
+**Repositório público (GitHub):** https://github.com/TheFirstGomes/Estudos/tree/main/FIAP/2Ano/Fase2/ir-alem-2-ecg-mlp
 
 ## 📜 Descrição
 
