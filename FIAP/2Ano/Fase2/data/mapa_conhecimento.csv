@@ -1,0 +1,65 @@
+﻿Sintoma 1,Sintoma 2,Doença Associada
+dor no peito,aperto no tórax,Infarto Agudo do Miocárdio
+irradia para o braço esquerdo,dor no braço esquerdo,Infarto Agudo do Miocárdio
+suor frio,sudorese intensa,Infarto Agudo do Miocárdio
+dor na mandíbula,dor no queixo,Infarto Agudo do Miocárdio
+náusea,enjoo,Infarto Agudo do Miocárdio
+sensação de morte iminente,angústia intensa,Infarto Agudo do Miocárdio
+dor no peito,aperto no tórax,Angina
+piora quando faço esforço,dor ao caminhar,Angina
+passa quando eu paro,melhora com o repouso,Angina
+aperto ao subir escadas,dor ao esforço,Angina
+caminho rápido,dor ao correr,Angina
+cansaço constante,fadiga,Insuficiência Cardíaca
+tornozelos inchados,inchaço nas pernas,Insuficiência Cardíaca
+falta de ar ao subir escadas,falta de ar aos esforços,Insuficiência Cardíaca
+dormir com dois travesseiros,falta de ar ao deitar,Insuficiência Cardíaca
+acordar sufocado,tosse noturna,Insuficiência Cardíaca
+ganho de peso rápido,inchaço na barriga,Insuficiência Cardíaca
+coração disparado,palpitações,Arritmia Cardíaca
+batimentos irregulares,coração acelerado,Arritmia Cardíaca
+tontura,tonto,Arritmia Cardíaca
+sensação de desmaio,quase desmaiei,Arritmia Cardíaca
+pausas nos batimentos,coração falhando,Arritmia Cardíaca
+boca torta,rosto caido,Acidente Vascular Cerebral (AVC)
+fraqueza no lado direito,fraqueza no lado esquerdo,Acidente Vascular Cerebral (AVC)
+dificuldade para falar,fala arrastada,Acidente Vascular Cerebral (AVC)
+perda de visão súbita,visão escurecida de um lado,Acidente Vascular Cerebral (AVC)
+formigamento no rosto,dormência no braço,Acidente Vascular Cerebral (AVC)
+dor de cabeça forte,dor de cabeça intensa,Hipertensão Arterial
+pressão alta,pressão elevada,Hipertensão Arterial
+zumbido no ouvido,zumbido,Hipertensão Arterial
+visão turva,visão embaçada,Hipertensão Arterial
+sangramento no nariz,tontura,Hipertensão Arterial
+falta de ar de repente,falta de ar súbita,Embolia Pulmonar
+dor ao respirar fundo,dor ao respirar,Embolia Pulmonar
+perna inchada e dolorida,dor na panturrilha,Embolia Pulmonar
+voo longo,cirurgia recente,Embolia Pulmonar
+tosse com sangue,escarro com sangue,Embolia Pulmonar
+dor no peito,dor ao respirar fundo,Pericardite
+piora quando me deito,melhora quando me sento inclinado,Pericardite
+febre,calafrios,Pericardite
+dor no peito,atrito no peito,Pericardite
+desmaiei,desmaio,Síncope
+visão escureceu,visão escurecida,Síncope
+tontura,fraqueza,Síncope
+suor frio,palidez,Síncope
+levanto rápido,ao levantar,Hipotensão Postural
+tontura,tonto,Hipotensão Postural
+visão escurecida,visão escureceu,Hipotensão Postural
+tornozelos inchados,pés inchados,Insuficiência Venosa
+pernas pesadas,dor nas pernas,Insuficiência Venosa
+falta de ar,dificuldade para respirar,Insuficiência Cardíaca
+falta de ar,dificuldade para respirar,Embolia Pulmonar
+falta de ar,dificuldade para respirar,Angina
+cansaço ao esforço,fadiga ao esforço,Angina
+cansaço,fadiga,Anemia
+palidez,fraqueza,Anemia
+palpitações,coração acelerado,Hipertireoidismo
+tremor,perda de peso,Hipertireoidismo
+sopro no coração,falta de ar,Valvopatia Cardíaca
+cansaço,tontura,Valvopatia Cardíaca
+dor no peito,febre,Endocardite
+febre,fadiga,Endocardite
+tornozelos ficam inchados,tornozelos estão inchados,Insuficiência Cardíaca
+passa em poucos minutos,alivia ao parar,Angina
